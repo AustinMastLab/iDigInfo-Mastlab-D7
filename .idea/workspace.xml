@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="911c3d86-5eb1-48ae-a028-46984ca91de8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/sites/all/libraries/flexslider/changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/all/libraries/flexslider/changelog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/idiginfo.org/themes/sky/js/slideshow.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/idiginfo.org/themes/sky/js/slideshow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/css/flexslider_img.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/css/flexslider_img.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/images/flexslider-sample-4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/js/flexslider.load.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/assets/js/flexslider.load.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.admin.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.admin.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.api.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.flexslider_default_preset.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.flexslider_default_preset.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.make.example" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.make.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.test" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.context.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.context.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.features.field.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.features.field.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.features.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.features.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.features.menu_custom.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.features.menu_custom.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.flexslider_default_preset.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.flexslider_default_preset.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.strongarm.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.strongarm.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.views_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_example/flexslider_example.views_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_fields/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_fields/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_fields/flexslider_fields.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_fields/flexslider_fields.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_fields/flexslider_fields.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_fields/flexslider_fields.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views.views.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views.views.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views_plugin_style_flexslider.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/flexslider_views_plugin_style_flexslider.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/theme/flexslider-views.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/theme/flexslider-views.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/theme/flexslider_views.theme.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/flexslider_views/theme/flexslider_views.theme.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/plugins/export_ui/flexslider_ctools_export_ui.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/plugins/export_ui/flexslider_ctools_export_ui.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/theme/flexslider.theme.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/theme/flexslider.theme.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/theme/flexslider.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider/theme/flexslider.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/flexslider_views_slideshow.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/flexslider_views_slideshow.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/flexslider_views_slideshow.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/flexslider_views_slideshow.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/flexslider_views_slideshow.views_slideshow.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/flexslider_views_slideshow.views_slideshow.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/js/flexslider_views_slideshow.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/js/flexslider_views_slideshow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame-row-item.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame-row-item.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame-row.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame-row.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow-main-frame.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider-views-slideshow.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider_views_slideshow.theme.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/flexslider_views_slideshow/theme/flexslider_views_slideshow.theme.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/drush/fontyourface.drush.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/drush/fontyourface.drush.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.features.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.features.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.test" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/fontyourface.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.list.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.list.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/edge_fonts/edge_fonts.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/font_reference/font_reference.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/font_reference/font_reference.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/font_reference/font_reference.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/font_reference/font_reference.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontdeck/fontdeck.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontdeck/fontdeck.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontdeck/fontdeck.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontdeck/fontdeck.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontdeck/fontdeck.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontdeck/fontdeck.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/api.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/api.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/css/browse.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/css/browse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/css/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/css/settings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/fonts_com.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/fonts_com.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/fonts_com.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/fonts_com.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/fonts_com.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/fonts_com.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/js/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/js/project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/js/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fonts_com/js/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontsquirrel/fontsquirrel.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontsquirrel/fontsquirrel.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontsquirrel/fontsquirrel.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontsquirrel/fontsquirrel.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontsquirrel/fontsquirrel.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontsquirrel/fontsquirrel.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/css/fontyourface_ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/css/fontyourface_ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/css/gear-select.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/css/gear-select.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/css/indicator.gif" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/css/indicator.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/fontyourface_ui.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/fontyourface_ui.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/fontyourface_ui.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/fontyourface_ui.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/js/add_form.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/js/add_form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/js/apply.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/js/apply.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/js/browse.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/js/browse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/fontyourface_ui.views_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/fontyourface_ui.views_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_enable_disable.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_enable_disable.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_enabled_yes_no.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_enabled_yes_no.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_font.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_font.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_foundry.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_foundry.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_license.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_license.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_preview.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_preview.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_provider.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_provider.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_tag_font_tid.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_field_fontyourface_tag_font_tid.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_filter_fontyourface_foundry.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_filter_fontyourface_foundry.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_filter_fontyourface_provider.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_filter_fontyourface_provider.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_filter_tag_font_tid.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_filter_tag_font_tid.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_relationship_fontyourface_tag.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_ui/views/views_handler_relationship_fontyourface_tag.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/fontyourface_wysiwyg.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/fontyourface_wysiwyg.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/fontyourface_wysiwyg.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/fontyourface_wysiwyg.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/fontyourface_wysiwyg.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/fontyourface_wysiwyg.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/plugins/fontyourface.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/plugins/fontyourface.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/plugins/fontyourface/fontyourface.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/plugins/fontyourface/fontyourface.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/plugins/fontyourface/images/fontyourface.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/fontyourface_wysiwyg/plugins/fontyourface/images/fontyourface.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/google_fonts_api.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/google_fonts_api.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/google_fonts_api.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/google_fonts_api.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/google_fonts_api.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/google_fonts_api.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/views/google_fonts_api.views_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/google_fonts_api/views/google_fonts_api.views_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/local_fonts/local_fonts.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/local_fonts/local_fonts.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/local_fonts/local_fonts.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/local_fonts/local_fonts.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/local_fonts/local_fonts.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/local_fonts/local_fonts.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/typekit_api/typekit_api.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/typekit_api/typekit_api.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/typekit_api/typekit_api.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/typekit_api/typekit_api.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/typekit_api/typekit_api.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/fontyourface/modules/typekit_api/typekit_api.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.admin.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.admin.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.debug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.test" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.tokens.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.tokens.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.variable.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/google_analytics/googleanalytics.variable.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.admin.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.admin.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/menu_target/menu_target.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/blog.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/blog.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/comment.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/comment.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/forum.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/forum.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/node.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/node.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/page_title.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/page_title.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/taxonomy.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/taxonomy.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/uc_catalog.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/uc_catalog.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/user.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/user.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/views.page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/modules/views.page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title-admin-settings-form.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title-admin-settings-form.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.admin.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.admin.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.test" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.tokens.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.tokens.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.views.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.views.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.views_default.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/page_title.views_default.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/views/plugins/page_title_plugin_display_page_with_page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/views/plugins/page_title_plugin_display_page_with_page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/views_handler_field_node_page_title.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/page_title/views_handler_field_node_page_title.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.devel_generate.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.devel_generate.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.test" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/node_reference/node_reference.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references.feeds.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references.feeds.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references_uuid/references_uuid.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references_uuid/references_uuid.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references_uuid/references_uuid.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/references_uuid/references_uuid.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.devel_generate.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.devel_generate.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.install" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.module" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.test" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/user_reference/user_reference.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_handler_argument.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_handler_argument.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_handler_relationship.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_handler_relationship.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_plugin_display.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_plugin_display.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_plugin_row_fields.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_plugin_row_fields.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_plugin_style.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/modules/references/views/references_plugin_style.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/css/idiginfo-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/css/idiginfo-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/css/idiginfo-focus.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/css/idiginfo-focus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/css/idiginfo-layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/css/idiginfo-layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/idiginfo.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/idiginfo.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/fsuBullet.gif" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/fsuBullet.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/fsuLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/fsuLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/fsuSearch2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/fsuSearch2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/garnetBg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/garnetBg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idigdoor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idigdoor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginFocus.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginFocus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_logo_260_70.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_logo_260_70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_longtext.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_longtext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_maintitle.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_maintitle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_static.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/idiginfo_static.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_biotea.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_biotea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_dl2sl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_dl2sl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_hackathon.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_hackathon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.20120413.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.20120413.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.20120510.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.20120510.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.20120713.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.20120713.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.bkp.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.bkp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_idigbio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_jailbreak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_jailbreak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_morphbank.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_morphbank.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.20120213.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.20120213.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.20120328.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.20120328.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.20120510.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.20120510.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/news_msrc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/searchBarBg.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/images/searchBarBg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/html.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/html.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/page--front.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/page--front.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/page--team.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/page--team.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/page.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/idiginfo/templates/page.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/base.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/base.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/color.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/color.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/color/preview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/skeleton.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/skeleton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/black2.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/black2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/comment-arrow.gif" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/comment-arrow.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/dark/arrow_bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/dark/arrow_bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/default_banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/default_banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/gradient_small_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/gradient_small_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/light/arrow_bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/light/arrow_bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/search-button.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/images/search-button.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/js/jquery.mobilemenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/js/jquery.mobilemenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/1312368015_tiger.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/1312368015_tiger.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/compass.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/compass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/skeleton_devices.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/mockup/skeleton_devices.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/skeletontheme.info" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/skeletontheme.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/comment-wrapper.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/comment-wrapper.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/comment.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/comment.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/node.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/node.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/page--front.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/page--front.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/page.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/templates/page.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/theme-settings.php" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/skeletontheme/theme-settings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/CHANGELOG.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/base.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/base.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/color.inc" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/color.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/preview.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/preview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/color/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/book.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/book.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/colors.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/colors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/jquery.ui.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/jquery.ui.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/search.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/search.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/sprites.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/sprites.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/user.css" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/css/user.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/black.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/gray.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/gray.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_glass_55_fffce5_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_glass_55_fffce5_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_glass_95_fef5f1_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_glass_95_fef5f1_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_highlight-soft_50_d6d4d1_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_highlight-soft_50_d6d4d1_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_highlight-soft_90_e6e4e2_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_highlight-soft_90_e6e4e2_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_highlight-soft_90_efedeb_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-bg_highlight-soft_90_efedeb_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_000000_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_000000_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_555555_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_555555_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_884400_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_884400_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_8c2e0b_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_8c2e0b_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_999999_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/images/ui/ui-icons_999999_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/jquery-1.2.6.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/jquery-1.2.6.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/jquery.cycle.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/jquery.cycle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/slideshow.js" beforeDir="false" afterPath="$PROJECT_DIR$/sites/mastlab.org/themes/sky/js/slideshow.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="14315" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rbruhn"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AustinMastLab/iDigInfo-Mastlab-D7",
+    "accountId": "b468b30d-595d-4942-b552-04cc537e981a"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="ubuntu22" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Boaw3m7EZiojvNB8gYszUHa9bv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "application.passwordSafe",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PS-261.22158.283" />
+        <option value="bundled-php-predefined-a98d8de5180a-a9a4ea3ee0f4-com.jetbrains.php.sharedIndexes-PS-261.22158.283" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="911c3d86-5eb1-48ae-a028-46984ca91de8" name="Changes" comment="" />
+      <created>1752334971888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752334971888</updated>
+      <workItem from="1752334972957" duration="36000" />
+      <workItem from="1775158113707" duration="1441000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
