@@ -1,0 +1,19 @@
+* text=auto
+
+*.php text eol=lf
+*.module text eol=lf
+*.inc text eol=lf
+*.install text eol=lf
+*.info text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.sh text eol=lf
+*.make text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.jpeg binary
+sites/**/images/* binary
