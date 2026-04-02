@@ -1,0 +1,206 @@
+/*
+ * This stylesheet is for all the iDigInfo Content
+ * (everything that goes inside the #main .content area
+ */
+
+/*
+ * Drupal sillyness overrides
+ */
+.node img {
+	border: none;
+}
+
+/*
+ * General Typography
+ */
+h4 {
+	border-bottom: 1px dotted #CCC;
+}
+
+
+/* ==========================
+ * Page: Front page
+ */
+.page-node-1 h1#page-title {
+	display: none;
+}
+
+.frontpage_block {
+	width: 445px;
+	float: left;
+}
+
+.frontpage_block img {
+	float: none !important;
+	text-align: center;
+	margin: 2px auto !important;
+	display: block;
+}
+
+
+.frontpage_row {
+	clear: both;
+}
+
+/* ========================
+ * Page: Contact
+ */
+.location_map {
+	float: right;
+}
+
+.location_map p {
+	margin: 1px;
+}
+
+.contact_content {
+	margin-right: 400px;
+}
+
+
+/* ==========================
+ * View: Projects View
+ */
+.view-projects .views-row {
+	clear: both;
+	margin: 0 0 50px 0;
+}
+
+.view-projects .views-row-odd .views-field-field-project-logo {
+	float: right;
+	margin: 10px;
+}
+
+.view-projects .views-row-even .views-field-field-project-logo {
+	float: left;
+	margin: 10px;
+}
+
+.view-projects .views-field-title h5 {
+	font-size: 1.6em;
+	font-weight: bold;
+}
+
+
+/* ==========================
+ * View: Team View
+ */
+.view-team .views-row {
+	border-top: 1px solid #CCC;
+	clear: both;
+	padding: 10px 0 30px 0;
+}
+
+.view-team .views-row.views-row-first {
+	border-top: none;
+}
+
+.view-team .views-field.inline,
+.view-team .views-field.inline * {
+	display: inline;
+}
+
+.view-team .views-field.inline > *:first-child:before {
+	content: " | ";
+}
+
+.view-team .views-field-field-picture {
+	float: right;
+	width: 110px;
+	height: 120px;
+	margin: 0 0 10px 10px;
+	background: #bdb9b4;
+	border: 3px solid #bdb9b4;
+	overflow: hidden;
+	text-align: center;
+	}
+	
+
+
+.view-team .views-field-title {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.view-team .views-field-field-job-title {
+	font-size: 1.1em;
+	font-style: italic;
+}
+
+.view-team .views-field-field-more-info-link {
+}
+
+.view-team .views-field-field-bio {
+	margin: 15px 0;
+	max-width: 750px;
+}
+
+.view-team .views-field-field-office-location > * {
+	display: inline;
+}
+
+.view-team .views-field-field-office-location.inline > *:first-child:before {
+	content: none;
+}
+
+
+.view-featured-member .views-field-field-picture {
+	float: right;
+	width: 120px;
+	height: 120px;
+	margin: 0 0 10px 10px;
+	border: 3px solid #bdb9b4;
+	overflow: hidden;
+	}
+	
+.view-featured-member .views-field-field-picture img {
+	width: 120px;
+	height: auto;
+	}
+	
+	
+.view-featured-member .views-field-title {
+	font-weight: bold;
+	}
+	
+.view-featured-member .views-field-field-job-title {
+	margin-bottom: 10px;
+	}
+	
+#columns h2 {
+	margin: 0 0 20px 0;
+	}
+	
+
+a, #footer a { color: #b22e3c; }
+a:visited {
+  color: #66050f;
+}
+a:hover,
+a:focus,
+a:active {
+  background: #e9e8e6;  
+}
+#container_header a:hover,
+#container_header a:focus,
+#container_header a:active {
+  background: transparent;  
+}
+.pager a:hover,
+.pager a:active,
+.pager a:focus {
+  background-color: #b22e3c;
+  color: #fff;
+}
+
+
+.view-id-news_archive .views-row { margin-bottom: 15px; }
+.view-id-news_archive strong { display: block; }
+
+#main-content .field-name-field-news-date { font-style: italic; font-size: 110%; margin: 5px 0 15px 0; color: #666; }
+
+h3.field-label { color: #666; font-size: 100%; line-height: 120%; margin: 2px 0 0 0; }
+
+.views-slideshow-controls-bottom { border-top: 1px solid #666; margin: 5px 0 0 0; padding: 5px 0 0 0; }
+
+#views_slideshow_cycle_main_home_page_projects-block img { float: right; margin: 0 0 5px 5px; }

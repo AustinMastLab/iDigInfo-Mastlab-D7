@@ -1,0 +1,200 @@
+/* FSU Header */
+#headerContainer {
+	height:60px;
+	padding-top:10px;
+	background:url(../images/garnetBg.gif) repeat-y center;
+	background-color:#2B0007;
+	z-index:1;
+}
+#headerRule {
+	height:61px;
+	border-bottom:2px solid #2B0007;
+	z-index:0;
+}
+#header {
+	height:90px;
+	width:900px;
+	margin:0px auto;
+	font-size-adjust:none;
+}
+#fsuLogo {
+	border:0;
+	float:left;
+}
+/* End FSU header */
+
+/* Site Name */
+#container_header > hgroup {
+	margin-top: 10px;
+}
+
+h1.site-name {
+	font-size: 1.7em;
+	margin: 1em 0 1em 0;
+
+        width: 750px; height: 50px;
+}
+
+/* Site Logo */
+#logo {
+	float: right;
+	width: 293px;
+	padding-top: 2px;
+}
+
+/* Added Class */
+#outermain {
+	background-color: #FFF;
+}
+
+/* Main Menu Tabs */
+.region-navigation-tabs,
+.region-navigation-tabs .inner,
+.region-navigation-tabs .inner .menu {
+	margin: 0;
+	padding: 0;
+}
+
+.region-navigation-tabs {
+	margin-left: 1.2em;
+}
+
+.region-navigation-tabs .block,
+.region-navigation-tabs .block .inner,
+.region-navigation-tabs .block .content,
+.region-navigation-tabs .block .content ul {
+	display: inline;
+}
+
+.region-navigation-tabs .inner h2 {
+	display: none;
+}
+
+.region-navigation-tabs ul.menu {
+	list-style-type: none;
+}
+
+.region-navigation-tabs ul.menu li {
+	display: inline;
+	margin-right: 8px;
+}
+
+.region-navigation-tabs ul.menu li a {
+	display: inline-block;
+	font-size: 1.2em;
+	background-color: #E1DFDC;
+	padding: 6px 31px 8px 31px;
+	color: #4D453E;
+	border-radius: 8px 8px 0 0;
+}
+
+.region-navigation-tabs ul.menu li a:hover,
+.region-navigation-tabs ul.menu li a.active {
+	background-color: #FFF;
+}
+
+.region-navigation-tabs #block-system-management li a {
+	background-color: #bbb7b2;
+}
+
+
+/* Edit Tabs Overrides */
+.inner > .tabs {
+	margin: 0 0 2em 0 !important;
+}
+
+/* Breadcrumb Overrides */
+div.breadcrumb {
+	display: none;
+}
+
+/* Main Style Overrides */
+
+#main .content {
+	font-size: 1.0em;
+}
+
+/* Reset HTML5 Figure Tags */
+figure {
+	margin: 0;
+}
+
+figure br {
+	display: none;
+	height: 0;
+}
+
+figure figcaption {
+	text-align: center;
+	font-size: 0.8em;
+	margin: 1px;
+	padding: 0;
+	display: block;
+}
+
+#subsection {
+	width: auto;
+	text-align: center;
+	background: #f6f6f6;
+	}
+	
+#columns {
+	width: 960px;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: left;
+	}
+	
+.col {
+	float: left;
+	width: 299px;
+	padding: 0 10px 0 0;
+	margin: 0px 10px 0px 0;
+	border-right: 1px solid #efedea;
+	}
+	
+.end { border-right: none; }
+
+#node-1, #node-1 .content { padding: 0; margin: 0; }
+
+#block-system-user-menu h2 {
+	display: none; 
+	}
+	
+#block-system-user-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	height: 30px;
+	border-bottom: 1px solid #ccc;
+	}
+	
+#block-system-user-menu li {
+	float: left;
+	margin: 0 20px 0 0;
+	padding: 0;
+	}
+	
+	
+
+    
+.view-display-id-page .view-header h4, .view-display-id-page .view-content {
+    margin-left: 0px;
+    }
+    
+.view-display-id-page .view-display-id-block_1 .view-content {
+    margin-left: 0px;
+    }
+
+.view-display-id-block_1 { 
+    margin-left: 0;
+    width: 580px;
+    float: left;
+    }
+    
+.view-display-id-page .view-display-id-block_1 .views-field-title {
+    font-size: 180%;
+    margin-bottom: 5px;
+    }
+    
+.view-display-id-page .views-field-field-news-date { font-style: italic; font-size: 110%; margin: 5px 0 15px 0; color: #666; }

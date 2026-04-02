@@ -1,0 +1,178 @@
+/*****************************************
+Home page slideshow
+*****************************************/
+
+.slideshow-container {
+	margin: 0;
+	width: 613px;
+	height: 293px;
+	background-color:#efedea;
+	float: left;
+	overflow:hidden;
+	padding: 7px 0 0 7px;
+}
+#content-slideshow {
+	width: 605px;
+	margin: 0;
+	padding:0;
+	height: 290px;
+}
+#content-slideshow ul {
+	background:transparent;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}           
+#content-slideshow .slideshow {
+	width:420px;
+	overflow: hidden;
+	float:left;
+	color:#fff;
+	}
+
+#content-slideshow .slideshow ul {
+	float:left;
+	overflow: hidden;
+	width:420px;
+	height:283px;
+	}
+
+#content-slideshow .slideshow li {
+	display:none;
+	left:-99999em;
+	width:414px;
+	height:277px;
+	margin: 0;
+	padding: 0;
+	display:block;
+	overflow: hidden;
+	background:#3F4045;
+	position:relative;
+	z-index:1;
+	border: 3px solid #fff;
+	}
+
+.js #content-slideshow .slideshow li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width:414px;
+	height:277px;
+	display:block;
+	overflow: hidden;
+	background:#0f0;
+	position:relative;
+	z-index:1;
+	}
+
+.js #content-slideshow .slideshow li .entry {
+	width:414px;
+	padding: 0;
+	overflow: hidden;
+	position:absolute;
+	bottom:0;
+	left:0;
+	background:#0f0;
+	filter:alpha(opacity=70);
+	-moz-opacity:0.7;
+	-khtml-opacity: 0.7;
+	opacity: 0.7;
+	}
+
+#content-slideshow .slideshow li .entry p {
+	margin: 0;
+	}
+
+#content-slideshow .slideshow li .entry h2 a, 
+#content-slideshow .slideshow li .entry h2 a:link,
+#content-slideshow .slideshow li .entry h2 a:visited,
+#content-slideshow .slideshow li .entry h2 a:hover,
+#content-slideshow .slideshow li .entry h2 a:active  {
+	line-height: 1.1em;
+	margin:0;
+	padding: 0;
+	color:#993399 !important;
+	margin: 0;
+	letter-spacing:0;
+	}
+
+#content-slideshow  ul.slideshow-nav {
+	height:231px;
+	width:177px;
+	margin:0;
+	padding: 52px 0 0 0;
+	float:right;
+	overflow:hidden;
+	background: #efedea url(/sites/idiginfo.org/themes/idiginfo/images/idiginFocus.png) top left no-repeat;
+	}
+
+#content-slideshow .slideshow-nav li {
+	display:block;
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	display:block;
+	}
+
+.slideme {
+	font-size: 6px;
+	float: left;
+	display: none;
+}
+
+.slideme a {
+	font-size: 6px;
+	text-decoration: none;
+	color: #3b3b3b;
+}
+
+#content-slideshow .slideshow-nav li a {
+	width:167px;
+	font-family:arial,helvetica,sans-serif;
+	display:block;
+	margin:4px 0 0 0;
+	padding:7px 10px;
+	list-style-type:none;
+	display:block;
+	height:40px;
+	color:#666;
+	font-size:10pt;
+	text-decoration: none;
+	line-height: 110%;
+	vertical-align: middle;
+	font-weight: bold;
+	overflow:hidden;
+	background: #e0dcd7;
+	border-bottom: 0;
+	}
+#content-slideshow .slideshow-nav li a:hover,
+#content-slideshow .slideshow-nav li a:active {
+	z-index: 40;
+	background: #666;
+	color: #fff;
+	}
+#content-slideshow .slideshow-nav li.on a {
+	background: #b22e3c;
+	color:#fff;
+	}
+
+.js #content-slideshow .slideshow-nav li a:hover,
+.js #content-slideshow .slideshow-nav li a:active {
+	color:#fff;
+	}
+
+#content-slideshow .slideshow-nav li a img.post-thum, 
+#content-slideshow .slideshow-nav li a img.thumbnail {
+	float:left;
+	margin: 0 10px 0 0;
+	border:0;
+	padding:1px;
+	background:#999;
+	width:28px;
+	height:28px;
+	}
+
+.js #content-slideshow .slideshow-nav li.on a img.post-thum, 
+.js #content-slideshow .slideshow-nav li.on a img.thumbnail {
+	background:#fff !important;
+	}

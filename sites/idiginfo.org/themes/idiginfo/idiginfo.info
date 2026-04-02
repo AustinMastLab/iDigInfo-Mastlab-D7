@@ -1,0 +1,27 @@
+name = iDigInfo
+description = iDigInfo theme, based off the Sky theme
+base theme = sky
+core = 7.x
+engine = phptemplate
+
+regions[page_top] = Page Top
+regions[header] = Header
+regions[navigation] = Navigation
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Sidebar First
+regions[sidebar_second] = Sidebar Second
+regions[footer] = Footer
+regions[copyright] = Copyright
+regions[collapsible] = Collapsible
+regions[page_bottom] = Page Bottom
+regions[navigation_tabs] = Navigation Tabs
+regions[staff_nav] = Staff Menu
+regions[home_one] = Home Column 1
+regions[home_two] = Home Column 2 
+regions[home_three] = Home Column 3
+
+stylesheets[all][] = css/idiginfo-layout.css
+stylesheets[all][] = css/idiginfo-content.css
+stylesheets[all][] = css/idiginfo-focus.css

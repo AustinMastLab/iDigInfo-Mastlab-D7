@@ -1,0 +1,74 @@
+# Drupal core and archives
+current
+drupal-7.103/
+*.tar.gz
+*.tgz
+*.zip
+
+# Sensitive files
+sites/*/settings.php
+sites/*/settings.local.php
+sites/*/settings.php.bk
+sites/*/default.settings.php
+
+# User content & temp (critical)
+sites/*/files/
+sites/*/private/
+sites/*/cache/
+sites/*/tmp/
+
+# General junk
+.DS_Store
+Thumbs.db
+*.log
+*~
+*.tmp
+.php~
+
+**/.svn/
+
+# === LARGE LIBRARIES & VENDOR CODE ===
+sites/all/libraries/ARC2/
+sites/all/libraries/FirePHPCore/
+sites/all/libraries/bad-behavior/
+sites/all/libraries/video-js/
+sites/all/libraries/jquery.cycle/
+sites/all/libraries/ckeditor/
+sites/all/libraries/tinymce/
+sites/*/libraries/tinymce/
+
+# === BIG CONTRIB MODULES ===
+sites/all/modules/apachesolr/
+sites/all/modules/ctools/
+sites/all/modules/views/
+sites/all/modules/date/
+sites/all/modules/wysiwyg/
+sites/all/modules/libraries/
+sites/all/modules/imce/
+sites/all/modules/imce_wysiwyg/
+sites/all/modules/module_filter/
+sites/all/modules/pathauto/
+sites/all/modules/token/
+sites/all/modules/views_slideshow/
+sites/all/modules/diff/
+sites/all/modules/google_analytics/
+sites/all/modules/hacked/
+sites/all/modules/security_review/
+sites/all/modules/special_menu_items/
+sites/all/modules/matomo/
+
+# === THEME BLOAT ===
+sites/all/themes/zen/STARTERKIT/
+sites/all/themes/zen/zen-internals/
+
+# Common bloat
+**/tests/
+**/examples/
+**/demo/
+**/help/
+**/phpdocs/
+**/docs/
+**/node_modules/
+**/bower_components/
+
+sites/all/temp/
