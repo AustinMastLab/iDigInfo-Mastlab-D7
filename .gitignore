@@ -72,5 +72,5 @@ sites/all/themes/zen/zen-internals/
 **/bower_components/
 
 sites/all/temp/
-.idea
+.idea/*
 example*.txt
