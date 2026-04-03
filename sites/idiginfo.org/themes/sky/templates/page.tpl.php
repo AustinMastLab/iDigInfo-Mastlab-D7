@@ -58,7 +58,7 @@
     <?php endif; ?>
   </div>
   <?php print $breadcrumb; ?>
-  <footer id="footer" class="section section-footer clearfix" role="footer">
+  <footer id="footer" class="section section-footer clearfix">
     <?php print render($page['footer']); ?>
     <?php print render($page['copyright']); ?>
   </footer>

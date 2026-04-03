@@ -70,7 +70,7 @@
   </div>
   </div> <!-- End outermain -->
   <?php print $breadcrumb; ?>
-  <footer id="footer" class="section section-footer clearfix" role="footer">
+  <footer id="footer" class="section section-footer clearfix">
     <div class="container-16">
       <?php print render($page['footer']); ?>
       <?php print render($page['copyright']); ?>
