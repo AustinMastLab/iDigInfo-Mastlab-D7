@@ -1,60 +1,108 @@
+### 1. Instructions
+
+```markdown
 # iDigInfo-Mastlab-D7
 
-Drupal 7 multisite repository for Austin Mast Lab (iDigInfo and mastlab.org).
+Drupal 7 site for the Institute for Digital Information and Scientific Communication (iDigInfo) and Mast Lab.
 
-This repository tracks only the custom code and configuration for the two sites:
-- sites/idiginfo.org
-- sites/mastlab.org
+## Repository Structure
 
-## Setup Instructions
+This repository contains **only custom code**:
+- Custom themes (`sites/idiginfo.org/themes/idiginfo/` and `sites/mastlab.org/themes/`)
+- Configuration files
+- `.gitignore` (properly excludes contrib modules and libraries)
 
-1. Clone this repo into your Drupal root (or move the contents into the sites/ folder):
-   git clone https://github.com/AustinMastLab/iDigInfo-Mastlab-D7.git /path/to/drupal/sites
+**Contrib modules and libraries are NOT stored in Git** — they are ignored to keep the repository lightweight.
 
-2. Install Drupal 7 core (not included):
-   - Download Drupal 7.103 (or compatible version)
-   - Extract it so the structure looks like:
-     drupal/
-     ├── index.php
-     ├── includes/
-     ├── modules/
-     ├── themes/
-     ├── sites/          ← provided by this repo
-     ├── .htaccess
-     └── current → drupal-7.103 (optional symlink)
+## How to Set Up the Site
 
-3. Restore missing modules and libraries using Drush:
-   - From the Drupal root, run:
-     drush make sites/all/iDigInfo.make --no-core --contrib-destination=sites/all
+### 1. Clone the repository
 
-4. Create settings files:
-   - Copy sites/default/default.settings.php → sites/idiginfo.org/settings.php
-   - Copy sites/default/default.settings.php → sites/mastlab.org/settings.php
-   - Edit database, base_url, and file paths in each settings.php
+```bash
+git clone https://github.com/AustinMastLab/iDigInfo-Mastlab-D7.git
+cd iDigInfo-Mastlab-D7
+```
 
-5. Create files directories:
-   mkdir -p sites/idiginfo.org/files sites/mastlab.org/files
-   chmod -R 775 sites/*/files
+### 2. Set up the Drupal core
 
-6. Run the update script:
-   cd sites
-   bash update-multisite.sh
+```bash
+# Make sure you have a clean Drupal 7.103 core
+ln -s drupal-7.103 current   # if not already present
+```
 
-## How to use the Drush make file
+### 3. Copy production `sites/` directory (Recommended)
 
-After placing Drupal core:
-drush make sites/all/iDigInfo.make --no-core --contrib-destination=sites/all
+The easiest and most reliable way is to copy the `sites/` folder from your working production server:
 
-This will download Apache Solr, Date, Flexslider, Fontyourface, Views, Zen theme, and other modules into sites/all/.
+```bash
+# From your local or server
+rsync -av user@production-server:/path/to/production/sites/ ./sites/
+```
 
-## What is included
-- Custom themes (idiginfo, skeletontheme)
-- Site-specific modules and overrides
-- sites.php, update-multisite.sh, iDigInfo.make
+This brings all modules, libraries, settings.php, and files with it.
 
-## What is NOT included
-- Drupal core
-- Large libraries and most contrib modules (restored with Drush)
-- Uploaded files (files/, private/)
+### 4. Fix permissions
 
-For questions, contact the Mast Lab team.
+```bash
+sudo chown -R www-data:www-data sites/*/files
+sudo chown -R www-data:www-data sites/*/private
+sudo chmod -R 775 sites/*/files
+```
+
+### 5. Update settings.php (if needed)
+
+Edit `sites/idiginfo.org/settings.php` (and `sites/mastlab.org/settings.php`) with the correct database credentials for your environment.
+
+### 6. Clear caches
+
+```bash
+rm -rf sites/*/files/cache/* 2>/dev/null
+rm -rf sites/*/cache/* 2>/dev/null
+```
+
+### 7. Access the site
+
+Point your web server to `/data/web/drupal/current` (or the equivalent path).
+
+Main site: `http://idiginfo.test` (or your domain)
+
+---
+
+## Git Workflow
+
+### On Local Machine (Development)
+- Make changes only to custom themes
+- Commit and push:
+
+```bash
+git add sites/idiginfo.org/themes/idiginfo/
+git add sites/mastlab.org/themes/
+git commit -m "Update custom theme changes"
+git push
+```
+
+### On Production Server
+To update production:
+
+```bash
+cd /data/web/drupal
+git pull origin main
+
+# Fix permissions
+sudo chown -R idiginfo:www-data .
+sudo find . -type d -exec chmod 775 {} \;
+sudo find . -type f -exec chmod 664 {} \;
+
+# Clear caches
+rm -rf sites/*/files/cache/* 2>/dev/null || true
+rm -rf sites/*/cache/* 2>/dev/null || true
+```
+
+---
+
+## Important Notes
+
+- Never commit `sites/all/modules/contrib/` or `sites/all/libraries/`
+- Always keep a working copy of the `sites/` directory from production for easy setup
+- The `.gitignore` is configured to protect against committing large vendor directories
+
