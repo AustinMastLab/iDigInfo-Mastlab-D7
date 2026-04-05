@@ -68,9 +68,9 @@
 		</div>
 		<!-- the text items -->
 		<ul class="slideshow-nav">
-                    <li id="post-1" class="clearfix on"><a href="#main-post-1" title="Director Attends UN World Data Forum in Medellin, Colombia">Director Attends UN World Data Forum in Medellin, Colombia</a></li>
-                    <li id="post-2" class="clearfix"><a href="#main-post-2" title="Director Attends IUCN World Conservation Congress in Abu Dhabi, U.A.E.">Director Attends IUCN World Conservation Congress in Abu Dhabi, U.A.E.</a></li>
-                    <li id="post-3" class="clearfix"><a href="#main-post-3" title="Director Attends United Nations Environment Assembly in Nairobi, Kenya">Director Attends United Nations Environment Assembly in Nairobi, Kenya</a></li>
+        <li id="post-1" class="clearfix on"><a href="#main-post-1" title="Director Attends UN World Data Forum in Medellin, Colombia">Director Attends UN World Data Forum in Medellin, Colombia</a></li>
+        <li id="post-2" class="clearfix"><a href="#main-post-2" title="Director Attends IUCN World Conservation Congress in Abu Dhabi, U.A.E.">Director Attends IUCN World Conservation Congress in Abu Dhabi, U.A.E.</a></li>
+        <li id="post-3" class="clearfix"><a href="#main-post-3" title="Director Attends United Nations Environment Assembly in Nairobi, Kenya">Director Attends United Nations Environment Assembly in Nairobi, Kenya</a></li>
 		    <li id="post-4" class="clearfix"><a href="#main-post-4" title="Institute Hosts inaugural Meeting for Advancing Participatory Sciences in Florida">Institute Hosts inaugural Meeting for Advancing Participatory Sciences in Florida</a></li>
 		</ul>
 		<div class="slideme"></div>

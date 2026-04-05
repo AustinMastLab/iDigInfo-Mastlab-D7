@@ -102,7 +102,7 @@ Home page slideshow
 	margin:0;
 	padding: 52px 0 0 0;
 	float:right;
-	overflow:hidden;
+	overflow:visible;
 	background: #efedea url(/sites/idiginfo.org/themes/idiginfo/images/idiginFocus.png) top left no-repeat;
 	}
 
