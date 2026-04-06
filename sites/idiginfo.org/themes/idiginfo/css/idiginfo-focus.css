@@ -141,7 +141,7 @@ Home page slideshow
 	line-height: 110%;
 	vertical-align: middle;
 	font-weight: bold;
-	overflow:hidden;
+	overflow:visible;
 	background: #e0dcd7;
 	border-bottom: 0;
 	}

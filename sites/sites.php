@@ -54,10 +54,10 @@
  * @see http://drupal.org/documentation/install/multi-site
  */
 $sites = array(
-  'idiginfo.org' => 'idiginfo.org',
-  'mastlab.org' => 'mastlab.org',
-  'mastlab.idiginfo.org' => 'mastlab.org',
   'idiginfo.test' => 'idiginfo.org',
   'mastlab.test' => 'mastlab.org',
   'mastlab.idiginfo.test' => 'mastlab.org',
+  'idiginfo.org' => 'idiginfo.org',
+  'mastlab.org' => 'mastlab.org',
+  'mastlab.idiginfo.org' => 'mastlab.org',
 );
