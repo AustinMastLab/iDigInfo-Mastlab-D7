@@ -109,6 +109,9 @@ div.form-item div.password-suggestions {
 .profile .user-picture {
   float: right;
 }
+.form-item .description {
+  color: #555555;
+}
 .profile .user-picture img {
   padding: 0.5em;
   border: solid 1px #e6e4de;  
