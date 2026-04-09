@@ -127,6 +127,7 @@ Home page slideshow
 }
 
 #content-slideshow .slideshow-nav li a {
+  color: #444444;
 	width:167px;
 	font-family:arial,helvetica,sans-serif;
 	display:block;
@@ -136,7 +137,6 @@ Home page slideshow
 	display:block;
 	height:auto;
 	min-height:40px;
-	color:#666;
 	font-size:10pt;
 	text-decoration: none;
 	line-height: 1.2;
