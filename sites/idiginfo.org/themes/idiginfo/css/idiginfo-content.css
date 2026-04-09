@@ -197,12 +197,9 @@ a:active {
 .view-id-news_archive .views-row { margin-bottom: 15px; }
 .view-id-news_archive strong { display: block; }
 
-.view-display-id-page a,
-.view-display-id-block_1 a {
-  color: #8b1f2b;
-  text-decoration: underline;
+#main-content a {
+  text-decoration: underline !important;
 }
-
 #main-content .field-name-field-news-date { font-style: italic; font-size: 110%; margin: 5px 0 15px 0; color: #666; }
 
 h3.field-label { color: #666; font-size: 100%; line-height: 120%; margin: 2px 0 0 0; }
