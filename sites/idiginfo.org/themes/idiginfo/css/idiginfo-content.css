@@ -172,7 +172,7 @@ h4 {
 	}
 	
 
-a, #footer a { color: #8b1f2b; }
+a, #footer a { color: #8b1f2b; text-decoration: underline; }
 a:visited {
   color: #66050f;
 }
@@ -196,10 +196,6 @@ a:active {
 
 .view-id-news_archive .views-row { margin-bottom: 15px; }
 .view-id-news_archive strong { display: block; }
-
-#main-content a {
-  text-decoration: underline !important;
-}
 
 #main-content .field-name-field-news-date { font-style: italic; font-size: 110%; margin: 5px 0 15px 0; color: #666; }
 
