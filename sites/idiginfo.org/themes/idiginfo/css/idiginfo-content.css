@@ -200,6 +200,7 @@ a:active {
 #main-content a {
   text-decoration: underline !important;
 }
+
 #main-content .field-name-field-news-date { font-style: italic; font-size: 110%; margin: 5px 0 15px 0; color: #666; }
 
 h3.field-label { color: #666; font-size: 100%; line-height: 120%; margin: 2px 0 0 0; }
