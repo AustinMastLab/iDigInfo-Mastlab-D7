@@ -89,20 +89,20 @@ h1.site-name {
 }
 
 .region-navigation-tabs ul.menu li a:hover,
-.region-navigation-tabs ul.menu li a.active,
-.region-navigation-tabs ul.menu li a:focus {
+.region-navigation-tabs ul.menu li a.active {
 	background-color: #FFF;
-}
-
-.region-navigation-tabs ul.menu li a:focus {
-	outline: 2px solid #8b1f2b;
-	outline-offset: 2px;
 }
 
 .region-navigation-tabs #block-system-management li a {
 	background-color: #bbb7b2;
 }
 
+.tabs ul.primary li a:focus {
+  background-color: #ffffff;
+  color: #111111;
+  outline: 2px solid #8b1f2b;
+  outline-offset: 2px;
+}
 
 /* Edit Tabs Overrides */
 .inner > .tabs {
