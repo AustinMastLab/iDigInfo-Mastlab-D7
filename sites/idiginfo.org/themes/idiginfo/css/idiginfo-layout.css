@@ -89,8 +89,14 @@ h1.site-name {
 }
 
 .region-navigation-tabs ul.menu li a:hover,
-.region-navigation-tabs ul.menu li a.active {
+.region-navigation-tabs ul.menu li a.active,
+.region-navigation-tabs ul.menu li a:focus {
 	background-color: #FFF;
+}
+
+.region-navigation-tabs ul.menu li a:focus {
+	outline: 2px solid #8b1f2b;
+	outline-offset: 2px;
 }
 
 .region-navigation-tabs #block-system-management li a {
